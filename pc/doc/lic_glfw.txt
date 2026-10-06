@@ -1,0 +1,4 @@
+﻿
+GLFW is licensed under the zlib/libpng license.
+
+https://www.glfw.org/

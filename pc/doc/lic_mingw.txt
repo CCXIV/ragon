@@ -1,0 +1,6 @@
+﻿
+
+Mingw-w64 is free software and permissively-licensed. The details are located in the sources themselves.
+
+
+https://www.mingw-w64.org/
